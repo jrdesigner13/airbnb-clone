@@ -1,3 +1,36 @@
+# 2024 - Next 14 - Airbnb Clone
+#### This is the repository with the source code developed from a web/app using Next.js 14 with : 
+#### ReactJS
+#### Tailwind CSS
+#### Typescript
+#### Kinde
+#### Shadcn
+#### Supabase
+#### Postgresql / Prisma
+#### lucide-react
+#### React-date-range
+#### Deployment with Vercel
+
+## Features :
+#### 🌐 Next.js 14 App Router
+#### 🔐 Kinde Authentication
+#### 📧 Passwordless Auth
+#### 🔑 OAuth (Google and Facebook)
+#### 💿 Supabase Database
+#### 🖼️ Supabase Storage
+#### 💨 Prisma ORM
+#### 🎨 Styling with Tailwindcss and shadcn UI
+#### 📒 Reservation System
+#### 🧠 Filter Bar
+#### 🔎 Multi Step Search Modal
+#### 📝 Multi Step Form Listing Creation
+
+[`Preview`](https://airbnb-clone-tau-cyan.vercel.app)
+<img width="1409" alt="Screenshot 2024-02-23 at 14 22 21" src="https://github.com/jrdesigner13/airbnb-clone/assets/38070740/1016f3a6-b040-480a-b473-9345b057cbc6">
+<img width="1422" alt="Screenshot 2024-02-23 at 14 22 43" src="https://github.com/jrdesigner13/airbnb-clone/assets/38070740/6b20ec23-3c6a-467b-b981-aa1b6ced8106">
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
